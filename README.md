@@ -1,5 +1,6 @@
 # LiveByHololive
-File is too big, so I can't upload it here.
+
+Download : https://drive.google.com/file/d/1loLnGRSaZ1jnpRXNDZoR7-jNAf1iCB_k/view?usp=sharing
 
 Gameplay : https://youtu.be/LNxvzvFswOM
 
