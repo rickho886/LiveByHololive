@@ -26,33 +26,6 @@ https://user-images.githubusercontent.com/44393507/155835686-247c1f46-5e69-4538-
 
 ### Human
 
-Human Interact
-
-https://user-images.githubusercontent.com/44393507/155835776-30c7a5ba-bdca-4034-9d12-adb56176fbea.mp4
-
-Human Respawn Spot
-
-https://user-images.githubusercontent.com/44393507/155835785-28fb242c-d792-46b0-af66-61617362b868.mp4
-
-Complete Terminal
-
-https://user-images.githubusercontent.com/44393507/155836088-bb960ac3-589b-4a38-8ce6-68f21b9bfb12.mp4
-
-Exit Gate Opened
-
-https://user-images.githubusercontent.com/44393507/155836100-b682e402-4d83-4e00-9bb2-48f6d3f513e2.mp4
-
-QTE1
-
-https://user-images.githubusercontent.com/44393507/155836112-c47dba6e-e7b7-4d65-8d7f-ac094ee5babf.mp4
-
-QTE2
-
-https://user-images.githubusercontent.com/44393507/155836116-6facc5c3-a251-44f7-a42e-3c84100e6fb0.mp4
-
-
----
-
 * **Korone**
 
 https://user-images.githubusercontent.com/44393507/155835831-9779ad80-d35b-4831-ab96-915d8ab9317c.mp4
@@ -98,6 +71,31 @@ Pekora Skill (generate clones)
 
 https://user-images.githubusercontent.com/44393507/155835989-4e6b80ed-7dae-4d1c-b1c1-ef1fce74e4ce.mp4
 
+---
+
+Human Interact
+
+https://user-images.githubusercontent.com/44393507/155835776-30c7a5ba-bdca-4034-9d12-adb56176fbea.mp4
+
+Human Respawn Spot
+
+https://user-images.githubusercontent.com/44393507/155835785-28fb242c-d792-46b0-af66-61617362b868.mp4
+
+Complete Terminal
+
+https://user-images.githubusercontent.com/44393507/155836088-bb960ac3-589b-4a38-8ce6-68f21b9bfb12.mp4
+
+Exit Gate Opened
+
+https://user-images.githubusercontent.com/44393507/155836100-b682e402-4d83-4e00-9bb2-48f6d3f513e2.mp4
+
+QTE1
+
+https://user-images.githubusercontent.com/44393507/155836112-c47dba6e-e7b7-4d65-8d7f-ac094ee5babf.mp4
+
+QTE2
+
+https://user-images.githubusercontent.com/44393507/155836116-6facc5c3-a251-44f7-a42e-3c84100e6fb0.mp4
 
 ---
 
